@@ -1,0 +1,7 @@
+D:\Object Oriented Programming 2023\week 8\Lab 8\problem  number 2\problem  number 2\obj\Debug\problem  number 2.csproj.AssemblyReference.cache
+D:\Object Oriented Programming 2023\week 8\Lab 8\problem  number 2\problem  number 2\obj\Debug\problem  number 2.csproj.CoreCompileInputs.cache
+D:\Object Oriented Programming 2023\week 8\Lab 8\problem  number 2\problem  number 2\bin\Debug\problem  number 2.exe.config
+D:\Object Oriented Programming 2023\week 8\Lab 8\problem  number 2\problem  number 2\bin\Debug\problem  number 2.exe
+D:\Object Oriented Programming 2023\week 8\Lab 8\problem  number 2\problem  number 2\bin\Debug\problem  number 2.pdb
+D:\Object Oriented Programming 2023\week 8\Lab 8\problem  number 2\problem  number 2\obj\Debug\problem  number 2.exe
+D:\Object Oriented Programming 2023\week 8\Lab 8\problem  number 2\problem  number 2\obj\Debug\problem  number 2.pdb
